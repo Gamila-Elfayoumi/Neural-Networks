@@ -1,5 +1,6 @@
 The difference between: 
    1. Supervised Machine Learning:
+      
           Data: Labeled
                 (input, desired output)
           Problems:
@@ -13,7 +14,8 @@ The difference between:
                 Feed-forward Neural Networks (including Multi-Layer Perceptron - MLP)
                 Radial Basis Function (RBF) Networks
   
-   2. Unsupervised Machine Learning:
+   3. Unsupervised Machine Learning:
+      
            Data: Unlabeled
                  (Different realizations of input)
            Problems:
